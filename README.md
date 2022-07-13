@@ -9,15 +9,16 @@
   
 :book: ***Studying*** :book:
 
-<img src="https://img.shields.io/badge/Java-5F9EA0?style=flat-square&logo=Java&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Java-5F9EA0?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-FFCD28?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/HTML5-CSS-CD1039?style=flat-square&logo=HTML5&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/MySQL-#4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
 
  
 <a href="https://github.com/kio344">
     <img src="https://github-readme-stats.vercel.app/api?username=kio344&hide=&hide_title=&show_icons=true&include_all_commits=&theme=buefy" />
 </a>
-  
-  <a href="https://github.com/kio344">
+
+<a href="https://github.com/kio344">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kio344&layout=compact&show_icons=ture&show_owner=ture&hide_title=false&theme=buefy&hide=none" />
-  </a>
+    </a>
