@@ -32,7 +32,8 @@
 <a href="https://www.instagram.com/_mh_715/"> 
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=black"/>
  </a> 
- 
+ <a href="https://kio344.tistory.com/"> 
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Tistory&logoColor=black"/>
 </div>
  
 <a href="https://github.com/kio344">
