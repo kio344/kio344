@@ -24,7 +24,7 @@
   
  <div align="center">
  
- ***Means Of Contact*** 
+ ***Contact Me Here***
 
 </div>
 
