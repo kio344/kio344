@@ -6,8 +6,7 @@
  <div align="center">
  
  ***A lot more..***
- - I learning JSP. But I'm not good at it yet :(
- - so 
+ - I spend most of my time studying since I’ve always wanted to improve my ability 
  - 
  
  
