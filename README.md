@@ -6,10 +6,10 @@
  <div align="center">
  
  ***A lot more..***
+ - I enjoy taking on new challenge 😆
  - These days, I’m studying back-end developer course. 😊
  - The things I am studying to become a developer are Java, Html&Css, JSP, and MySQL. 💻
  - I spend most of my time studying since I’ve always wanted to improve my ability 😎
- - I'm need for help 
  
  </div>
  
