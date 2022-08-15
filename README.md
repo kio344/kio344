@@ -26,7 +26,6 @@
  </div>
    
    <br>
-   <br>
    
  <div align="center">
  
@@ -42,6 +41,8 @@
  <a href="https://kio344.tistory.com/"> 
  <img src="https://img.shields.io/badge/Tistory-CD1039?style=flat-square&logo=Tistory&logoColor=white"/>
 </div>
+
+<br>
  
 <a href="https://github.com/kio344">
     <img src="https://github-readme-stats.vercel.app/api?username=kio344&hide=&hide_title=&show_icons=true&include_all_commits=&theme=buefy" />
