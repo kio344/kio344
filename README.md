@@ -1,8 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Minho%20Kim&fontSize=90&fontcolor=black"/>
  
- <br>
- </br>
- 
  <div align="center">
  
  ***A lot more..***
