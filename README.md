@@ -50,9 +50,6 @@
 <a href="https://github.com/kio344">
     <img src="https://github-readme-stats.vercel.app/api?username=kio344&hide=&hide_title=&show_icons=true&include_all_commits=&theme=buefy" />
 </a>
-
 <a href="https://github.com/kio344">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kio344&layout=compact&show_icons=ture&show_owner=ture&hide_title=false&theme=buefy&hide=none" />
     </a>
-    
-    </div>
