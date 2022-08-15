@@ -11,8 +11,9 @@
  - I spend most of my time studying since I’ve always wanted to improve my ability 😎
  - 
  
- 
  </div>
+ 
+ <lr>
  
  <div align="center">
   
