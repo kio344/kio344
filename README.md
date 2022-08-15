@@ -16,7 +16,7 @@
  
  <div align="center">
   
- :computer: ***Studying Now*** :computer: 
+ :computer: ***Studying Now*** :book:
   
 <img src="https://img.shields.io/badge/Java-5F9EA0?style=flat-square&logo=Java&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/JavaScript-FFCD28?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
