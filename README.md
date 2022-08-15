@@ -48,7 +48,4 @@
 <div align="center">
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kio344&show_icons=true&theme=buefy)
-
-<a href="https://github.com/kio344">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kio344&layout=compact&show_icons=ture&show_owner=ture&hide_title=false&theme=buefy&hide=none" />
-    </a>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kio344&layout=compact&theme=buefy)
