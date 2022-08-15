@@ -44,8 +44,8 @@
 
 <br>
 
-<div align="left">
-
+<div align="center">
+#
  ![MinhoKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kio344&show_icons=true&theme=buefy)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kio344&layout=compact&theme=buefy)
  
