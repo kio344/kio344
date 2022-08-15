@@ -6,6 +6,8 @@
  <div align="center">
  
  ***A lot more..***
+ - I learning JSP. But I'm not good at it yet :(
+ - so 
  - 
  
  
