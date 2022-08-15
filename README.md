@@ -48,6 +48,6 @@
 
  ![MinhoKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kio344&show_icons=true&theme=buefy)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kio344&layout=compact&theme=buefy)
- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={kimm3654})](https://solved.ac/{kimm3654})
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimm3654)](https://solved.ac/kimm3654/)
+
  </div>
