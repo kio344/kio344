@@ -6,6 +6,8 @@
  <div align="center">
  
  ***A lot more..***
+ - These days, I’m studying full stack developer course. 😊
+ - 
  - I spend most of my time studying since I’ve always wanted to improve my ability 😎
  - 
  
