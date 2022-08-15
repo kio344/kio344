@@ -2,6 +2,9 @@
  
  <div align="center">
  
+ <br>
+ 
+ 
  ***A lot more..***
  - I enjoy taking on new challenge 😆
  - These days, I’m studying back-end developer course. 🔥
