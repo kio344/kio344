@@ -6,7 +6,7 @@
  ***A lot more..***
  - I enjoy taking on new challenge 😆
  - These days, I’m studying back-end developer course. 🔥
- - The things I am studying to become a developer are Java, Html&Css, JSP, and MySQL. 💻
+ - The things I am studying to become a developer are Java, Html&Css, JSP, and MySQL. :books:
  - I spend most of my time studying since I’ve always wanted to improve my ability 😎
  
  </div>
@@ -29,7 +29,7 @@
    
  <div align="center">
  
-  🤙 ***Contact Me Here*** 🤙
+  :iphone: ***Contact Me Here*** :iphone:
 
 </div>
 
