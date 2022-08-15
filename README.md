@@ -6,7 +6,7 @@
  <div align="center">
  
  ***A lot more..***
- - I spend most of my time studying since I’ve always wanted to improve my ability 
+ - I spend most of my time studying since I’ve always wanted to improve my ability 😎
  - 
  
  
