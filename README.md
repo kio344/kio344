@@ -36,10 +36,10 @@
 <div align="center">
 
 <a href="https://www.instagram.com/_mh_715/"> 
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Instagram-white?style=flat-square&logo=Instagram&logoColor=#E4405F"/>
  </a> 
  <a href="https://kio344.tistory.com/"> 
- <img src="https://img.shields.io/badge/Tistory-CD1039?style=flat-square&logo=Tistory&logoColor=#212121"/>
+ <img src="https://img.shields.io/badge/Tistory-black?style=flat-square&logo=Tistory&logoColor=#212121"/>
 </div>
 
 <br>
