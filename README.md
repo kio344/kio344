@@ -19,6 +19,7 @@
  📖 ***Studying Now*** 📖
   
 <img src="https://img.shields.io/badge/Java-5F9EA0?style=flat-square&logo=Java&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/-JavaScript-brightgreen?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-FFCD28?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/HTML5-CSS-CD1039?style=flat-square&logo=HTML5&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
